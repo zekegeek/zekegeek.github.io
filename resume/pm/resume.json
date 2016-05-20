@@ -1,0 +1,171 @@
+{
+  "basics": {
+    "name": "Catherine Roebuck",
+    "label": "",
+    "picture": "",
+    "email": "c.agnes.c@gmail.com",
+    "phone": "(310) 531-4560",
+    "website": "",
+    "summary": "Self­-propelled learner, strategic thinker and collaborative problem solver; enjoys organizing people to solve technical problems and technology to solve human problems.",
+    "location": {
+      "address": "414 West Ashby Drive",
+      "postalCode": "Idaho 83646",
+      "city": "Meridian",
+      "countryCode": "US",
+      "region": "Idaho"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "zekegeek",
+        "url": "https://www.linkedin.com/in/zekegeek"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Battelle Energy Alliance, Idaho National Laboratory",
+      "position": "User Experience Specialist, Intern",
+      "website": "https://www.inl.gov",
+      "startDate": "2015-06-01",
+      "summary": "Leads usability strategy and UX development for a web­based application for bioenergy feedstock data management. Conducts user testing, recommends and implements changes to site design, layout, content, functionality and information architecture.",
+      "highlights": []
+    },
+    {
+      "company": "NIATEC Invitational Cyber Defense Competition",
+      "position": "Team Lead",
+      "summary": "Led and organized team preparation; developed and implemented security strategy; coordinated team tasks and communication while defending a network from hackers.",
+      "highlights": [
+        "2nd place, November 2014",
+        "2nd place, November 2015"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Boston Philharmonic Orchestra",
+      "position": "User Experience Researcher",
+      "website": "http://www.bostonphil.org",
+      "startDate": "2016-04-01",
+      "summary": "Conducts usability testing of bostonphil website; recommends site improvements.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Brigham Young University, Idaho",
+      "area": "Computer Information Technology",
+      "studyType": "Bachelor of Science",
+      "startDate": "2013-09-01",
+      "endDate": "2016-07-15",
+      "gpa": "",
+      "courses": [
+        "Human-Computer Interaction",
+        "Front-end Web Development",
+        "Web Design",
+        "Project Management",
+        "System Analysis and Design",
+        "Systems Security",
+        "Database Design and Development",
+        "Object-Oriented Programming I, II",
+        "Operating Systems I, II",
+        "Mobile Application Development"
+      ]
+    },
+    {
+      "institution": "Brigham Young University",
+      "area": "General Studies",
+      "studyType": "",
+      "startDate": "2008-09-01",
+      "endDate": "2011-04-01",
+      "gpa": "",
+      "courses": [
+        "Intro to Geographic Information Systems",
+        "Technology in Health Promotion",
+        "Persuasive Writing"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": [
+        "Agile Methodologies",
+        "Microsoft project",
+        "Visio",
+        "Meeting Facilitation",
+        "Belbin",
+        "work breakdown structure",
+        "critical path",
+        "Scope Definition",
+        "user acceptance testing",
+        "Risk Assessment",
+        "brainstorming",
+        "Technical Writing"
+      ]
+    },
+    {
+      "name": "UX",
+      "level": "",
+      "keywords": [
+        "Usability",
+        "Accessibility",
+        "User Testing",
+        "User Scenarios",
+        "Wireframes and Mockups",
+        "Information Architecture",
+        "Qualitative Analysis"
+      ]
+    },
+    {
+      "name": "Web & Software",
+      "level": "",
+      "keywords": [
+        "HTML5",
+        "CSS3",
+        "Bootstrap",
+        "JavaScript",
+        "SQL",
+        "ASP.NET",
+        "Chrome Developer Tools"
+      ]
+    },
+    {
+      "name": "Collaboration Tools",
+      "level": "",
+      "keywords": [
+        "Trello",
+        "GitHub",
+        "Slack",
+        "GitHub",
+        "Team Foundation"
+      ]
+    },
+    {
+      "name": "Development Tools",
+      "level": "",
+      "keywords": [
+        "Visual Studio",
+        "NetBeans",
+        "Eclipse",
+        "Sublime Text",
+        "vim"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native"
+    },
+    {
+      "language": "Swedish",
+      "fluency": "Full Professional"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
